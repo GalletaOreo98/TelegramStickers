@@ -1,6 +1,8 @@
-Thanks for taking the time to contribute ❤️
-
-Guidelines for contributing to this repository:
+<div align="center">
+  <img src="./Aesthetic%20Drawings/PNG/Star_Cat.png" alt="Star_Cat" width="200" align="center"/>
+  <div align="center"><strong>❤️ Thanks for taking the time to contribute ❤️ </strong></div>
+</div>
+<br>
 
 ## General
 
@@ -8,18 +10,18 @@ Guidelines for contributing to this repository:
 
 ## Stickers
 
-- The image file must be in PNG or WebP format and must fit within a 512 × 512 box (one side must be 512px and the other 512px or less)
+- The image file must be in PNG or WebP format and must fit within a 512 × 512 box (one side must be 512px and the other 512px or less)  
 _Example: 
 512x420, 233x512, 512x512_
 
-- Images must have descriptive file names in the following format: One or two words that describes the sticker. You can take this as tags, but don't use more than two; You can add a number at the end. (only if it is necessary)
-_Examples:_
-Happy.png
-Cat_Angry.png
-Shy.png
-Cat_Angry_2.png
-Happy_2.png
-Happy_3.png
+- Images must have descriptive file names in the following format: One or two words that describes the sticker. You can take this as tags, but don't use more than two; You can add a number at the end. (only if it is necessary)  
+_Example:_  
+Happy.png  
+Cat_Angry.png  
+Shy.png  
+Cat_Angry_2.png  
+Happy_2.png  
+Happy_3.png  
 
 ## Icon
 
@@ -46,7 +48,7 @@ Stiker&nbspPack&nbspName/ --> Data.json
 
 - **Icon.png:** Sticker pack icon
 
-- **Data.json:** Sticker Pack Information. If you haven't published your sticker pack yet then "url": null
+- **Data.json:** Sticker Pack Information. If you haven't published your sticker pack yet then "url": null  
 _Data structure:_
 
 ```js
